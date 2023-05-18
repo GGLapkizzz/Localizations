@@ -1,0 +1,2047 @@
+﻿B
+EB
+GB
+kB
+MB
+PB
+TB
+About %s\n\nPublisher: %S\nRelease Date: %S\nVersion: %S\nDescription: %S\nUpdate URL: %S\n
+©2016 BitTorrent, Inc.\r\nAll Rights Reserved.\r\n\r\nThanks for using this FREE program. We hope you like it. If you paid for it, get a refund!\r\n\r\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2016 BitTorrent, Inc.\r\nAll Rights Reserved.\r\n\r\nThanks for using this program. We hope you like it.\r\n\r\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+©2016 BitTorrent, Inc.\r\nAll Rights Reserved.\r\n\r\nThanks for using this program. We hope you like it.\r\n\r\nThanks to ludde, Serge Paquet, zygron, Firon, and Arvid for all the help.
+Too many activations\nA single purchased copy of %s Plus can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+Invalid path specified. Please modify and try again.
+Current Directory
+&Deselect
+&Deselect All
+ (disk space: %#Z)
+ (of %#Z)
+There is not enough free disk space to save the files in the folder you selected.\r\nDo you want to continue anyway?
+The directory you chose is not on the same drive as the %s client. It will not come along when you move the USB drive. Are you sure you want to continue?
+&Select
+&Select All
+One or more files exceed the filesystem size limit, these files can not be saved properly.\r\nDo you want to continue anyway?
+Please add fewer torrents at once.
+Add RSS Feed
+Would you like to add "%s" to your search list?
+ ADVERTISEMENT
+This is an advertisement from one of uTorrent's partners.
+Try µTorrent without ads
+Anti-virus Information
+%s application %s failed to copy to %s
+\nThis app was downloaded from %S
+Installing %s
+This %s app was downloaded from a website.\nOnly install it if it came from a trusted source.\nWould you like to install?\n\nTitle: %s\nPublisher: %S\nUpdate URL: %S
+Are you sure you want to open the containing folders for %d torrents?\n
+Are you sure you want to open the converted files for %d torrents?\n
+Are you sure you want to open %d torrents?\n
+Unable to find '%s'.
+Error '%s' while downloading URL.
+Unable to generate temp filename.
+Neither NAT-PMP nor UPnP is enabled. Please check your preferences.
+The contents of this torrent were verified to be free of viruses and spyware on %s
+  Delete infected files and associated torrent
+There was an error while scanning the content of this torrent.
+Virus Found!\r\n\r\n
+Torrent contents are still downloading or checking. Once this is completed, contents will be checked for viruses and spyware.
+You have recently un-quarantined this possibly infected torrent
+Antivirus installed
+ and more...
+Antivirus app not installed
+Torrent contents are being checked for viruses and spyware.
+  Keep virus quarantined (default)
+Torrent contents are waiting to be checked for viruses and spyware.
+  Ignore and let virus free (not advised)\r\n
+The torrent you downloaded contains a virus! We have safely\r\nquarantined the virus. What do you want to do?\r\n\r\n
+Torrent name: *
+File name: *
+All files (*.*)||*.*||
+The app '%s' is requesting access to:\n%s%s%s%s%s%s%s%s%s%s\n\nWould you like to grant this app access?
+Access to ActiveX Controls
+Ability to run in the background
+Ability to create torrents
+Read access to all torrents
+Write access to all torrents
+This btapp requires ActiveX, but it is disabled in advanced preferences.
+Missing app name
+Missing update url
+App is not compatible with client
+Missing index.html
+GetContentFile() does not contain a file [BtApp]
+GetContentFile() does not contain [btinstall.txt]
+App load failed (%s)
+BtApp does not contain index.html
+Failed to load btapp as a zipfile
+The torrent you are trying to add is already in the list of torrents. Do you want to load the trackers from it?
+Are you sure you want to add %d torrents?
+The installation of "%s" is complete
+Anti-virus signature update failed. Please try again later!
+Can't open .torrent file: %s
+Warning: Delete to trash failed for %s. Error: %d. Deleting permanently.
+Failure: %s
+Files missing from job. Please recheck.
+Peers6 field is of invalid length
+Peers field is of invalid length
+Tracker sending invalid data
+Tracker reply in bad format
+This magnet link will not work unless you enable the DHT.\n\nDo you want to enable DHT?
+Tracker reply has no peers field
+Executing: %s
+working
+Unable to load "%s": %s!
+Unable to save .torrent to '%s'.
+Unknown torrent
+Former volume not mounted
+Warning: %s
+Cancel
+Checking auto portmap configuration ...
+Checking queue ... we are #%d.
+Offer
+Connecting ...
+CONVERTING %:.1d %%
+CONVERTING
+TRANSFERRING %:.1d %%
+(auto detect)||16 kB||32 kB||64 kB||128 kB||256 kB||512 kB||1024 kB||2048 kB||4096 kB||8192 kB||16384 kB||
+&Cancel
+Unable to save to '%s'.
+&Close
+The size of the selected data is 0 bytes. Please specify another file or directory.
+The directory you have selected contains more than 1000 files. The resulting .torrent will get very large. A better idea is to put the files into a compressed file and then share that file.\r\n\r\nDo you want to continue anyway?
+Drag either a single file or a folder to the window.
+Please enter the name of a file or directory.
+Please enter a valid tracker URL. Do you want to continue without having any trackers?
+There was an error computing the hash: (%d) %s
+The directory you have selected contains one or more hidden files.\r\n\r\nDo you want to include the hidden files?
+The tracker protocol is invalid. udp, http and https are the only valid ones. Do you want to continue without having any trackers?
+All files (*.*)||*.*||
+Torrent files||*.torrent||All files (*.*)||*.*||
+You have selected to share your entire My Documents folder and all its files. It is not advisable to do so unless you are certain you want to share all the contents, including possibly private documents.\n\nAre you sure you want to proceed?
+The file or directory '%s' cannot be found. Please enter a different filename. Note that you can't share the root of a drive.
+Too many pieces in the torrent. Select a larger piece size.
+&Reset
+Select where to save the .torrent
+Select a file
+Select a folder
+One or more trackers are invalid. Do you want to continue without having any trackers?
+Always perform this check
+Let Windows decide based on media type
+Best Rating
+Click to vote
+Comments Disabled.
+Newest
+%u Ratings
+Oldest
+Please Comment
+Submit
+Worst Rating
+Your rating
+Click here to learn more about BitTorrent Certified devices
+http://www.bittorrent.com/certified-devices/
+OR
+Copy converted files to USB
+Plug USB into BitTorrent Certified playback device
+Drag and drop a \ntorrent onto a device.
+Convert
+Plug in your (mounted) Android.\nConverted files will be transferred.
+Converted files are moved\nto iTunes automatically.
+BitTorrent MOVE devices connect to your torrent library and stream media to your TV
+Plug in a USB stick, select \nconverted files, and click Transfer.
+Transfer
+Open iTunes
+Stream to BitTorrent Certified MOVE device
+Transfer to Storage
+Copy/Play on Playstation
+Copy/Play on Xbox
+Now walk your USB stick over\nto your Playstation and plug it in.
+Now walk your USB stick over\nto your Xbox and plug it in.
+Automatically transfer newly converted media when connected
+connected
+Go to iTunes to transfer converted µTorrent media onto your devices.
+Make media playable in BitTorrent Certified devices
+USB Storage Disabled
+Transfer playable media to multiple removable storage devices of your choice
+Ready For Transfers
+Not Connected
+disconnected
+Download iTunes
+Add an Android Device
+Are you sure?
+Cancel
+No
+Yes
+mounted
+Not enough Free Space on device.
+Transfer failed
+Open iTunes
+Check out these apps to experience %s\\u00ae on tablets, mobile devices and more
+Find torrents and download them directly to your Android phone or tablet
+New Device Added!
+Simple, secure access to your %s client on any device
+%s\\u00ae For Android
+%s\\u00ae For Mobile
+%s\\u00ae Remote
+Enable USB Storage on Device
+Connect via USB
+Transfer Selected Files to USB Storage
+Transfer Selected Files to Storage
+Connect your Android device\nand enable USB storage
+Waiting for Device...
+Connect your Android device\nto your PC via USB cable
+On your Android device,\nenable USB storage
+Do you want to cancel adding your Android device?
+<a>Unable to add your Android device?</a>
+<a>Unable to transfer to your Android device?</a>
+Add torrents
+Add RSS feeds
+Change settings
+Download and read torrent data files
+Delete torrent files
+List torrents and their files and properties, list settings
+List torrents and their files and properties for torrents belonging to other entities
+Remove torrents
+Remove RSS feeds
+Control/modify/delete torrents belonging to other entities
+Set torrent properties
+Start/pause/resume/stop/recheck/forcestart torrents and change priorities of files
+&Close
+D: %z/s
+ETA: *
+U: %z/s
+About
+Webpage
+Close
+Add New Torrent
+ Save In *
+...
+ Name *
+Don't show this again
+ Convert on Completion for *
+Select from My Devices
+ Torrent Options *
+S&kip hash check
+Label:
+&Start torrent
+Add to top of queue
+Altruistic Mode
+ Torrent Contents *
+Name:
+Comment:
+Size:
+Date:
+S&elect All
+Select &None
+&Advanced...
+OK
+Cancel
+Waiting for Torrent Information
+Create Subfolder
+Welcome to the fastest way to move torrent files. To get started, find a torrent using our search bar.
+Learn about torrenting
+<a>No, I got it</a>
+Devices
+Drag torrents onto devices in the sidebar to initiate media conversions.
+Add a Device
+Android
+iPods/iPhones
+iPads/Apple TV
+USB to Playstation
+USB to Xbox
+BitTorrent Certified Device
+Click on your device below to enable this feature.
+Android
+Apple
+Game
+BitTorrent Certified
+Feed
+Feed URL:
+&Custom Alias:
+Subscription
+Do &not automatically download all items
+&Automatically download all items published in feed
+Use &smart episode filter
+OK
+Cancel
+Always check for updates to this version
+Yes
+No
+Enter Password
+Enter Password
+OK
+Cancel
+X
+Retry Install
+Cancel
+Create New Torrent
+ Select Source *
+Add file
+Add directory
+Skip Files:
+ Torrent Properties *
+Trackers:
+Web Seeds:
+Comment:
+Piece size:
+ Other *
+S&tart seeding
+&Private torrent
+Preserve file &order
+Create &Encrypted
+ Related *
+Website:
+Rss:
+Similar Torrents:
+Create
+Creating torrent
+Website
+RSS Feeds
+Similar Torrents
+<a>View this bundle</a>
+Show:
+Resolution:
+Comments
+Dialog
+<a>SysLink1</a>
+Button1
+Button1
+Device Pairing Request
+PIN from device:
+Yes
+No
+ Read Statistics *
+Cache:
+From Cache
+From File
+#
+Amount
+Avg Size
+Rate
+ Write Statistics *
+Cache:
+#
+To Cache
+Amount
+To File
+Avg Size
+Rate
+Hashing
+&Reset
+Queue
+Corked jobs
+App
+Static
+Static
+Static
+Static
+Static
+Static
+Static
+Static
+Static
+Gate Torrent
+OK
+Don't show me this again
+You Just added a ...
+Let Me Unlock the Free Content
+Get More Bundles
+Share on Facebook
+Share on Twitter
+Gated torrent explanation....
+Delete Bundle Torrent
+Cancel
+Don't show me this again
+Gated torrent explanation....
+Wait...
+Get More Bundles
+Let Me Unlock the Free Content
+Delete
+Dialog
+Cancel
+Remember my prefrerence
+Gated torrent explanation....
+Wait...
+Get More Bundles
+See What's Added
+µTorrent Setup
+&Accept
+&Decline
+< &Back
+&Cancel
+Please select an option before proceeding
+Update Settings
+Notify me before installing updates
+Program Location
+Install µTorrent in:
+Portable mode
+B&rowse...
+Create Start menu entry
+Create Quick Launch icon
+Create Desktop icon
+The following options automate the configuration of some additional settings in Windows.
+Additional Settings
+Add an exception for µTorrent in Windows Firewall
+Start µTorrent when Windows starts up
+Select which file types you would like µTorrent to handle by default.
+File Types
+.torrent (BitTorrent files)
+Magnet URIs
+.btsearch (BitTorrent Search Engine files)
+<a>SysLink1</a>
+Static
+Radio1
+Radio2
+Hey, we notice you have not added a torrent yet, start by searching for a torrent here.
+Learn more
+<a>No, I got it</a>
+OpenCandy Offer
+Continue >
+Add Torrent from URL
+Please enter the location of the .torrent you want to open:
+OK
+Cancel
+We want to show you the most meaningful advertisements we can\nThis survey will help us figure out the most relevant ads for you
+Start Survey
+<a>No Thanks</a>
+This information will not be shared anywhere at any time
+Male
+Female
+Single
+Dating
+Married
+Under 18
+18 - 21
+Over 21
+Gambling
+Gaming
+Dating
+Sports Fan
+Music and Movies
+Shopping
+Plus upgrade
+Don't show me this again
+Continue
+Tell me more
+Pick a file
+OK
+Cancel
+&OK
+&Cancel
+Dialog
+OK
+Cancel
+Check1
+Static
+Static
+Set Name
+Name
+OK
+Cancel
+RSS Downloader
+&Help
+&Close
+ Filter Settings *
+Filter:
+Not:
+Save in:
+...
+Feed:
+Quality:
+&Episode Number: [ex. 1x12-14]
+&Filter matches original name instead of decoded name
+Don't start downloads automatically
+&Give download highest priority
+Smart ep. filter
+&Minimum interval:
+&Reset
+Label for new torrents:
+&Add
+&Delete
+?
+&Delete
+µTorrent Remote
+Your µTorrent Remote account does not currently have a security question set. A security question can be used later to transfer your username to another computer. Would you like to create one now?
+Question:
+Answer:
+Submit
+No thanks
+µTorrent Remote
+There is already a computer using the username *
+If this username is yours, please enter your security answer below to confirm your identity and transfer the username to this computer.
+Question:
+Sample edit box
+Answer:
+Submit
+Cancel
+Select Player
+Cancel
+OK
+Select a Storage Device
+OK
+Preferences
+OK
+Cancel
+&Apply
+General Options
+Turn anti-virus feature ON
+Turn auto-update ON
+Check for anti-virus updates
+Your last anti-virus update was:
+None
+ Windows Integration *
+Sta&rt µTorrent when Windows Starts
+Associate with torrent files
+Start Minimized
+C&heck association on startup
+Define Minimize in UI Settings
+Install IPv6/Teredo
+ Updates && Privacy
+&Automatically install updates
+Notify me before installing updates
+Update to beta versions
+Send detailed info when checking for updates (always anonymous)
+&Boss-Key:
+&Clear Private Data
+Use Boss-Key password
+ When Downloading *
+&Append .!ut to incomplete files
+P&re-allocate all files
+Pr&event standby if there are active torrents
+&Language:
+ Display Options *
+C&onfirm when deleting torrents
+Confirm when d&eleting trackers
+S&how confirmation dialog on exit
+A&lternate list background color
+Show current speed in the &title bar
+Sh&ow speed limits in the status bar
+Use fine grained file priorities
+Confirm exit if critical seeder
+ System Tray *
+&Minimize button minimizes uT to tray
+&Always show tray icon
+C&lose button closes uT to tray
+&Single click on tray icon to open
+Show &balloon notifications in tray
+Al&ways activate when clicked
+ When Adding Torrents *
+&Don't start the download automatically
+A&ctivate the program window
+S&how options to change the name and location of the torrent data
+ Actions for Double Click *
+For seeding torrents:
+For downloading torrents:
+ Location of Downloaded Files *
+&Put new downloads in:
+...
+&Move completed downloads to:
+&Append the torrent's label
+Store .torrents in:
+Move .torrents for finished jobs to:
+&Delete loaded .torrents
+...
+ Listening Port *
+Port used for incoming connections:
+Random port
+Enable &UPnP port mapping
+&Randomize port each start
+Enable &NAT-PMP port mapping
+Add Windows &Firewall exception
+ Proxy Server *
+T&ype:
+&Proxy:
+P&ort:
+Authentication
+Username:
+Password:
+Use proxy for hostname lookups
+Use proxy for peer-to-peer connections
+ Proxy Privacy
+Disable all local DNS lookups
+Disable features that leak identifying information
+Disable connections unsupported by the proxy
+ Global Upload Rate Limiting *
+Maximum upload rate (kB/s): [0: unlimited]
+Alternate upload rate when not downloading (kB/s):
+ Global Download Rate Limiting *
+Maximum download rate (kB/s): [0: unlimited]
+ Global Rate Limit Options
+Apply rate limit to transport overhead
+Apply rate limit to uTP connections
+Stop transfers on user interaction
+ Number of Connections
+Global maximum number of connections:
+Maximum number of connected peers per torrent:
+Number of upload slots per torrent:
+Use additional upload slots if upload speed < 90%
+Enable Transfer Cap
+ Cap Settings *
+Transfer Cap:
+Time Period (days):
+Limit Type:
+Uploads
+Downloads
+Uploads + Downloads
+ Usage history for selected period:
+Uploaded:
+Static
+Downloaded:
+Static
+Uploaded + Downloaded:
+Static
+Time period:
+Static
+Reset History
+ Basic BitTorrent Features *
+&Enable DHT Network
+&Ask tracker for scrape information
+&Enable DHT for new torrents
+Enable &Peer Exchange
+Enable &Local Peer Discovery
+&Limit local peer bandwidth
+Enable bandwidth management [uTP]
+Enable UDP tracker support
+IP/Hostname to report to tracker:
+ Protocol Encryption *
+Outgoing:
+Allow incoming legacy connections
+Enable Altruistic Mode
+ Queue Settings *
+Maximum number of active torrents (upload or download):
+Maximum number of active downloads:
+ Seeding Goal (Default Values)
+Minimum ratio (%):
+Minimum seeding time (minutes):
+Minimum number of available seeds:
+&Seeding tasks have higher priority than downloading tasks
+ When µTorrent Reaches the Seeding Goal *
+Limit the upload rate to (kB/s): [0 = stop]
+&Enable Scheduler
+ Scheduler Table *
+ Scheduler Settings *
+Limited upload rate (kB/s):
+&Disable DHT when turning off
+Limited download rate (kB/s):
+µTorrent Remote provides an easy and highly secure way of accessing your client through a browser.
+Just enable the connection below, choose a computer name and password and remember to leave this computer on.
+Learn More
+Enable µTorrent Remote Access
+ Authentication *
+&Computer name:
+&Password:
+* Your computer name can be anything you choose.
+Static
+Visit http://remote.utorrent.com/ and enter this computer name and password.
+Set Security Question
+<a>SysLink1</a>
+Choose your default player for Playback tab (downloaded files only)
+Choose your external media player
+%1 stands for the command which is the chosen streamable file outputted by the build-in local loopback http server. You could add extra parameters for the player you selected.
+For a new torrent, always convert it for playback on the selected devices:
+Enable &Web UI
+ Authentication *
+&Username:
+&Password:
+Enable &Guest account with username:
+ Connectivity *
+Alternative &listening port (default is the connection port):
+&Allow access only from these IPs (separate multiple entries with a comma):
+Download directories
+Add
+Remove
+ Advanced Options [WARNING: Do not modify!] *
+&Filter:
+&Value:
+&True
+&False
+&Set
+&Reset
+ Speed Popup List [Separate multiple values with a comma]
+&Override automatic speed popup list
+Upload speed list:
+Download speed list:
+ Persistent Labels [Separate multiple labels with a | character]
+ Search Engines [Format: name|URL] *
+ Basic Cache Settings *
+The disk cache is used to keep frequently accessed data in memory to reduce the number of reads and writes to the hard drive. µTorrent normally manages the cache automatically, but you may change its behavior by modifying these settings.
+&Override automatic cache size and specify the size manually (MB):
+&Reduce memory usage when the cache is not needed
+ Advanced Cache Settings *
+Enable caching of disk &writes
+Wr&ite out untouched blocks every 2 minutes
+Wri&te out finished pieces immediately
+Enable caching of disk &reads
+Turn off read caching if the upload speed is slow
+Remove old blocks from the cache
+Increase automatic cache size when cache thrashing
+ Run Program
+Run this program when a torrent finishes:
+...
+Run this program when a torrent changes state:
+...
+Use Label and Directory Rules
+Auto Label *
+Label:
+Contains:
++
+-
+Label-Directory Mapping
+...
++
+-
+Forget Paired Device
+Paired Devices
+Setup Guide
+ Bandwidth
+Your Upload Speed:
+Settings
+Upload Limit:
+Static
+Upload Slots:
+Static
+Connections (per-torrent):
+Static
+Connections (global):
+Static
+Max active torrents:
+Static
+Max active downloads:
+Static
+ Network
+Current Port: (0:random)
+Automatic Port Mapping (Recommended)
+&Cancel
+&Run tests
+&Save && Close
+Don't show this again
+About Altruistic Mode
+&Close
+What is the Altruistic Mode?
+Enabling this feature will prioritize uploads. For every part you download, you will upload twice as much. This mode will guarantee your torrent maintains an upload to download ratio of 2:1 at all times as well as
+keeping your torrent healthy. Keep in mind that this works best for popular torrents.
+Copy
+Name of Torrent:
+Done
+File Name(s):
+Share link:
+BODY COPY
+Your computer and µTorrent must be on and serving your content at the time somebody is downloading it.
+Failed to create the requested torrent
+Stats Service
+Display
+Clear
+Reset
+Load
+Save
+Transmit
+Close
+µTorrent Automatic Shutdown
+&Cancel
+uTorrent Shutdown Information
+Exit Now
+Disk Jobs:
+Time until automatic exit:
+Trackers:
+1 minute
+Speed Guide
+&Run speed test at:  www.dslreports.com
+Connection Type:
+ Affected Settings *
+Upload Limit:
+Upload Slots:
+Connections (per-torrent):
+Connections (global):
+Max active torrents:
+Max active downloads:
+Current Port: [0: auto]
+&Test if port is forwarded properly
+&Cancel
+&Use Selected Settings
+Security Scan Warning
+OK
+This file has been altered from its original state and could contain files that harm your computer.
+We recommend downloading a clean version directly from the content provider's website.
+µTorrent Streaming Feedback
+Please tell us about your streaming experience.
+Comments
+OK
+Cancel
+Torrent Properties
+OK
+Cancel
+ Trackers (separate tiers with an empty line) *
+ Bandwidth Settings *
+Maximum upload rate (kB/s): [0: default]
+Maximum download rate (kB/s): [0: default]
+Number of upload slots: [0: default]
+ Seeding Goal
+&Override default settings
+Minimum ratio (%):
+Minimum seeding time (minutes):
+Minimum number of available seeds:
+ Other Settings *
+&Initial Seeding
+&Peer Exchange
+&Enable DHT
+&Local Peer Discovery
+Altruistic Mode
+Web Seeds
+ Run Program *
+Run this program when the download finishes:
+...
+You can use these commands:\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%S - State of torrent\r\n%L - Label\r\n%T - Tracker
+%M - Status message string (status column)\r\n%I - hex encoded info-hash\r\n%K - kind of torrent (single|multi)\r\n\r\nState: combo of:\r\nstarted=1, checking=2, start-after-check=4,\r\nchecked=8, error=16, paused=32, auto=64, loaded=128
+Update URL
+Dialog
+OK
+Cancel
+µTorrent Visualization
+Close
+Converted
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nChoose "No" to continue running µTorrent.
+Downloading %s ...
+Failed to download translation. Please try again.
+Your translations are up to date.
+Edit RSS Feed
+Failed to download your plus licence key. Please try again.
+Failed to download your Pro licence key. Please try again.
+torrent is not valid bencoding
+Invalid download state, try resuming
+invalid 'file' field
+torrent info-hash does not match magnet link
+invalid path in torrent
+Invalid torrent file
+out of memory
+Torrent contains no name field
+torrent contains no piece hashes
+torrent contains no pieces
+unable to parse magnet URI
+torrent contains too many pieces (%Ld)
+Torrent file changed
+unsupported piece size (%Z)
+unsupported torrent size (%Z)
+&Clear Feed History
+&Delete Feed
+Dis&able Feed
+&Edit Feed...
+En&able Feed
+&Update Feed
+ffmpeg Process aborted with error %d. Unknown error\nMore information may be found in the transcript log at %s\\media
+Transcode process failed to start
+File move target %s already exists.  Overwrite?
+File already exists.
+1
+2
+3
+Filter My Torrents
+Search the web for content
+A web page showing results will launch
+... There is no step three!
+Manage Search Providers...
+Think content titles, how-to descriptions, etc.
+You will see links to Torrent files,\nclick on what you want.
+But you can alternately copy and paste Torrent URLs into the client.
+Problem
+Not Scanned
+Quarantined
+Queued
+Scanning
+Updating definitions
+Scanned
+Codecs
+Path
+For device
+Done
+Duration
+Encoding
+Time Left
+First Piece
+Has header
+Media Length
+Mode
+Name
+# Pieces
+#
+%
+Pieces
+Play
+Priority
+Rate
+Resolution
+Size
+Status
+Streamable
+Playback
+Torrent
+#Transfers
+Media
+*
+read
+write
+skip
+low
+normal
+high
+There was an error opening %s.\r\n\r\nMaybe the file hasn't been fully downloaded yet?
+failed to launch player\n\n[%s]
+Failed to open browser\n\n [%S]
+There is no media player associated with the %s%sfile type.
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff from %s. \n\n Your free stuff is one click away.
+Today is your lucky day! By entering your email you will be able to automatically unlock more free stuff. \n\n Your free stuff is one click away.
+YOU JUST ADDED A BITTORRENT BUNDLE
+Update
+View
+Before you delete %s, have you unlocked all the free content? One click and you'll get more. *
+Before you delete, have you unlocked all the free content? One click and you'll get more. *
+BUT WAIT. THIS BUNDLE HAS MORE.
+The BitTorrent Bundle has new content available. Click update to get the new content!
+The BitTorrent Bundle %s has new content available. Click update to get the new content!
+NEW BUNDLE CONTENT AVAILABLE
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+The BitTorrent Bundle %s has new content that just downloaded. View the new content by clicking below!
+NEW BUNDLE CONTENT HAS DOWNLOADED
+&Copy
+uTorrent lets you download the content you want, in just three simple steps.
+To FIND what you're after, click here to browse through exciting content from our growing list of partners such as TEDTalks and Vodo Movies.
+OR enter a search term to explore the world of torrents.
+Be prepared.
+You will leave uTorrent and your browser will open to unaffiliated Web sites.
+Some sites will have many links -
+remember you're looking for a link to a torrent download.
+If you did the first step correctly, you will have downloaded a file that ends in (dot) torrent
+Simply open the file,
+and then return to uTorrent and click here to watch the action as uTorrent trades bits and pieces with others until you have a complete torrent file.
+Finally, once your download is complete,
+options such as PLAY will be selectable.
+With uTorrent, downloading the content you want is made simple
+Availability:
+[DHT]
+announcing...
+disabled
+inactive
+not allowed
+waiting for announce...
+working
+%z/s
+Downloaded:
+ [Limited]
+%z/s (avg. %Z/s)
+%z/s
+General
+%#Z (%d hashfails)
+[Local Peer Discovery]
+disabled
+inactive
+not allowed
+working
+*
+[Peer Exchange]
+disabled
+inactive
+not allowed
+working
+%d x %#z (have %u)
+scrape not supported
+scrape ok
+scraping
+%#Z (%#Z done) (%#Z total)
+%#Z (%#Z done)
+Time Elapsed:
+Downloaded:
+Uploaded:
+Seeds:
+Remaining:
+Download Speed:
+Upload Speed:
+Peers:
+Share Ratio:
+Down Limit:
+Up Limit:
+Wasted:
+Save As:
+Pieces:
+Comment:
+Total Size:
+Hash:
+Created On:
+Status:
+Transfer
+disabled
+updating...
+%z/s
+%z/s (avg. %Z/s)
+%z/s
+%d of %d connected (%d in swarm)
+Bytes Read - Time
+Bytes Written - Time
+Number of Reads - Time
+Number of Writes - Time
+Transfer Cap is Not Set
+Disk Statistics
+Disk Timing
+Download
+Grid: %d days
+Network Overhead
+%d days
+%#z of %#z
+Streaming
+Transfer Cap
+Transfer History
+Upload
+Upload & Download
+uTP Delay
+Grid: 10 seconds
+Grid: 1 minute
+Grid: 5 minutes
+Grid: 1 hour
+Time (%s step)
+1 second
+5 seconds
+30 seconds
+5 minutes
+k\nB\n/\ns
+m\ns
+Could not download help file. Error: %s
+Help file not found in settings directory, attempting to download
+Cannot launch help file, as it is still downloading
+Close
+Unable to connect to the Internet at this time.
+Please try again once you have a connection.
+Invalid redirect (%S)
+invalid http reply
+invalid transfer encoding
+invalid URL
+can't open file
+can't unzip
+unable to write to file
+unable to write to file
+Too many redirects (%S)
+A newer version of µTorrent, %d.%d.%d build %d is already installed. Would you like to downgrade to %d.%d.%d build %d?\nClicking "No" runs your installed version of µTorrent.
+A newer version of µTorrent is already running.
+An older version of µTorrent is already running.
+Please shut down µTorrent and try again *
+Check your User Account Control settings
+Please enable User Account Control and restart the installer or contact your local administrator
+Incomplete
+Installing %s ...
+I &Agree
+Seamlessly update to the latest, most secure version of µTorrent.
+Automatic Updates
+Choose Install Options
+Choose a directory to put the application file in:
+Select µTorrent configurations (recommended settings are pre-selected)
+Configuration
+&Finish
+Select "Accept" or "Decline".
+By clicking "I Agree", you acknowledge that you have read and agree to the End User License Agreement and <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>.
+Scroll down to see the rest of the agreement.
+&Next >
+Please review the license terms before installing µTorrent
+License Agreement
+Beware of online scams! A number of websites have taken our free µTorrent client and attempt to charge money for it through some sort of "fee" or "subscription" or else they install it for free but infect your computer with malicious code in the process. To protect yourself, be sure to only download our software from http://www.utorrent.com. You should NEVER under any circumstances pay for free µTorrent software.
+From BitTorrent, Inc. - the publishers of µTorrent
+Warning
+&Upgrade
+Unsupported Operating System (OS)
+NOTICE
+This wizard will guide you through the installation of %s®, the #1 torrent download client on desktops and mobile devices worldwide.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s) by BitTorrent, Inc.\r\n\r\nClick Next to continue.
+This wizard will guide you through the installation of the official %s® torrent download client from BitTorrent Inc., the inventors of the BitTorrent protocol.  %s® is a torrent client that allows you to download files quickly and efficiently.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+Welcome to the µTorrent® Setup Wizard
+%s does not not support the Windows 2000 OS and may not\r\nrun properly.  We recommend you upgrade to\r\na newer Windows OS.
+Invalid folder specified. Please choose another folder.
+Invalid queue indicator
+Failed to add file to iTunes\n%s\nerror: %d
+Kill hanging %s processes?
+There were errors loading the language file. Please see the file uTorrent.exe.log in the application directory.
+Testing alternate servers...
+The install of %s failed.\n(%s)
+&Add Tracker...
+Clear &all logging flags
+Enter logfile
+Enter the name of the file to log to:
+Log aggregated messages
+Log blocked connections
+Clear &Log
+&Copy
+Dump DHT &Buckets
+Dump DHT &Tracked
+Log disconnects
+&Error Logging
+Log bad cancels
+Log bad donthaves
+Log bad haves
+Log bad piece requests
+Log bad rejections
+Log incoming donthave messages
+Log incoming have messages
+Log holepunch
+Log incoming connections
+&Dump Memory Info
+Log finished metadata
+Log misc errors
+Log NATPMP messages
+Log NATPMP errors
+Dump &Network Info
+Log outgoing connections
+&Peer Traffic Logging
+Log PEX
+Log piece picker
+Log RSS messages
+Log RSS errors
+Log outgoing have messages
+Dump &Sockets
+Log to &file...
+Log unchoke errors
+Log UPnP messages
+Log UPnP errors
+&Verbose Logging
+Log WebUI requests
+&Remove Tracker
+&Update Tracker
+Use &DHT
+Use &Local Peer Discovery
+Use &Peer Exchange
+Unable to contact update server.
+Unable to load "%s": %s!
+Unable to load "%s": %s!
+Unable to save the resume file. Some data may be lost.\r\nAnother program might have the file open, or the disk is full. Please correct this and click Retry. If you press Cancel, the resume file will not be saved.
+Unable to save the resume file. Another program might have the file open, or the disk is full.
+Unable to copy .torrent from '%s' to '%s': (%d) %s
+Unable to verify the integrity of µTorrent's update server.
+Choose where to download '%s' to:
+Choose where to save %s
+Failed to connect to %s Remote because your client is not compatible.\n\nWould you like to upgrade to the latest client?\n
+Some software installed on your computer prevents %s\nfrom working properly. This is possibly caused by the following DLLs '%S %S'
+Last %d days
+DHT: Disabled
+ (Login)
+DHT: %d nodes%s
+ (Updating)
+DHT: Waiting to log in
+Torrents (*.torrent)||*.torrent||All files (*.*)||*.*||
+It looks like the file you are about to download already exists in the folder for completed downloads.\r\nDo you want to use the data in that directory instead?
+Abort - Don't load this torrent; just skip it.
+No - Download the torrent from scratch.
+Yes - Use the data in the complete folder.
+%s detected '%S' (%S) appears to be installed on your computer. That is known malware, and might cause %s to crash or behave strangely, including but not limited to using up all your RAM and freezing. Please run a virus/malware checker.
+Would you like to make %s the default torrent application?
+You appear to be running version %02d.%02d of the NVIDIA Network Access Management tool.\n\nThis version has known issues which may create problems with %s.\n\nPlease upgrade your NVIDIA software to at least version %02d.%02d.
+Are you sure you want to add %d torrents?
+Are you sure you want to exit %s?
+One or more torrents have not finished uploading.\nAre you sure you want to exit %s?
+Registration failure%S%S
+Failure reclaiming account%S%S
+Failure registering security question%S%S
+Resume file successfully saved.
+D: %s%z/s
+ L: %z/s
+ O: %z/s
+ T: %Z
+U: %s%z/s
+Select a .torrent to open
+connection closed
+%s: ERROR MSG: %s\n
+%s: ERROR: received message type %d (expected %d)\n
+Connection
+Data read
+Data send
+\r\nUploaded this run: %#Z\r\nDownloaded this run: %#Z\r\nUploaded Today: %#Z\r\nDownloaded Today: %#Z\r\nTransferred last %d days: %#Z\r\nTotal Uploaded: %#Z\r\nTotal Downloaded: %#Z\r\nTotal Ratio: %:.3d\r\nTotal Running Time: %d:%.2d:%.2d\r\nNumber of torrents added: %d\r\nProgram launched: %d times\r\n\r\nLast launched: %s\r\n# incoming conns since start: %d\r\n# outgoing conns since start: %d\r\n# handshake: %d\r\n# connections: %d\r\n# uTP connecting: %d\r\n# TCP connecting: %d\r\n# half-open: %d (%d queued)\r\n
+[ALLOCFILE] *
+Disk Cache Overload
+Cache Overload
+*
+Listen error\r\nYou should change the listen port.
+Network OK\r\nYour network connection is working as it should.
+Not connectable\r\nA firewall/router is limiting your network traffic. You need to open up a port so others can connect to you.
+No incoming connections\r\nUnless the icon turns green, it could indicate a problem with your network configuration.
+Limited by scheduler
+Stopped by transfer cap
+Click to access the transfer cap settings
+Click to access the scheduler settings
+Seeding only
+Stopped by speed test
+Click to access the speed test
+Stopped by scheduler
+Stopped by user activity
+Click to access the bandwidth settings
+%s\r\n%d(%d) downloading, %d(%d) seeding\r\n%z/s down, %z/s up
+D:%s U:%s - %s
+Unlimited
+Select a .torrent to update to
+Be sure to exit %s before you unplug the USB drive!
+Failed to connect to %s Remote %S%S%s
+\n\nPress "OK" to review your login settings.
+Failed to connect to %s Remote because the username or password was wrong.\n\nWould you like to register a new account under the name "%S"?\n
+&About µTorrent
+Add Device...
+Add RSS Feed...
+&Add Torrent...
+A&dd Torrent (choose save dir)...
+Add Torrent from &URL...
+&BitTorrent Now Webpage
+Crash the client
+&Create New Torrent...
+E&xit
+&File
+µTorrent &Forums
+&Help
+µTorrent FA&Q
+µTorrent &Help
+&Learn more about %s Plus
+My &Plus Account
+&Learn more about %s Pro
+My &Pro Account
+&Learn how to use µTorrent
+&Options
+&Get %s Plus
+&Get %s Pro
+&Preferences
+&Release Notes
+&RSS Downloader
+Save default skin colors
+Send &Beta Feedback
+Show Side&bar
+Compact Category &List
+Show &Detailed Info
+Show &Devices
+Show &BitTorrent Now
+&Download Bar
+&Narrow Toolbar
+Show &Status Bar
+&Icons on Tabs
+Show &Toolbar
+&Auto Shutdown
+Disabled
+Quit when Downloads Complete
+Shutdown when Everything Completes
+Quit when Everything Completes
+Hibernate when Downloads Complete
+Hibernate when Everything Completes
+Standby when Downloads Complete
+Standby when Everything Completes
+Reboot when Downloads Complete
+Reboot when Everything Completes
+Shutdown when Downloads Complete
+Setup &Guide
+&Show Statistics
+Test hang report
+&Download Translation
+&Check for Updates
+µTorrent &Webpage
+Scan for &viruses
+&Don't Download
+&Priority
+&High
+&Low
+&Normal
+&Open
+Open &Containing Folder
+Copy Stream &URL
+Prioritize by File &Order
+&Relocate...
+%s - %z/s
+%s %#Z of %#Z
+%s - %s remaining
+%s - Initializing download
+%s - WARNING: Possibly insufficient sources
+&About App
+A&dd RSS Feed...
+&Add Torrent...
+&Advanced
+Scan for &viruses
+Band&width Allocation
+Active&X
+&Backgrounding
+&Torrent Creation
+&Read Permission
+&Write Permission
+&Clear Peer List
+Comment
+Convert For
+Copy &Magnet URI
+Move Down Queue
+Move Up Queue
+Pause
+Remove
+Start
+De&lete Data
+&Delete .torrent
+D&elete .torrent + Data
+Show Download &Bar
+Remove
+Show In Folder
+Pop in
+Pop out
+Force Re-C&heck
+&Force Start
+Fullscreen
+Hide Devices
+Hide Media Player
+&High
+Implement me!
+&Labels
+&Low
+Move &Down Queue
+Move &Up Queue
+&New Window
+&Normal
+&Open
+Open &Containing Folder
+Show Converted Files
+&RSS Downloader
+Open URL in Bro&wser
+&Pause
+Convert For..
+Transfer To..
+Force Streaming
+Prop&erties
+&Remove
+&Remove
+Remove and delete .&torrent
+Remove and delete &Data
+Remove and d&elete .torrent + Data
+Move to &trash if possible
+Remove A&nd
+Remove Device
+&Reset Bans
+&RSS Options
+Send Torrent
+Set Destination &Name...
+Set &Download Limit
+S&et Download Location...
+Set &Upload Limit
+About Altruistic Mode...
+&Start
+S&top
+&Torrent Options
+&Uninstall App
+Update Tor&rent...
+Update Trac&ker
+Alt+
+Ctrl+
+Shift+
+More than 5 hours
+Error moving file: %S (%d)
+&Add Peer...
+&Whole peer list
+C&opy Selected Hosts
+&Copy Peer List
+&Log piece info...
+Reload &IPFilter
+&Resolve IPs
+&Log Traffic to Logger Tab
+Failed to relocate file %s, %s
+Today is your lucky day! %s will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+Today is your lucky day! we will automatically update periodically - with new content delivered right to you. \n\n Just keep it on, and keep the free stuff coming!
+In order to gain access to any free updates from %s, you have to keep it in your queue. Easy, right?
+In order to gain access to any free updates, you have to keep the torrent file in your queue. Easy, right?
+Read bad message
+Bad port number
+Bad Port number received
+Failed bind
+Checking for forwarded port
+Checking intermediate networks ...
+Server does not support this client
+Failure closing socket
+A local networking problem closed the connection.
+The server is down.
+Server closed the connection.
+System Call failed: CreateEvent
+System Call failed: CreateThread
+Download
+Protocol error in download test
+Problem reading download speed from server.
+Download test: wrong message type
+Unexpected empty message body
+%s error: %s (%d)
+Connection failed
+Failure reading message body
+Internal Error
+Invalid message argument sending message
+Invalid test ID
+Error logging in: Couldn't receive test order
+Error logging in: version check
+Lookup
+Failed hostname lookup
+Message too large
+Middlebox
+Wrong message at end of test
+Timed out waiting for message from server.
+Please check your networking configuration.
+Problem logging into server
+Protocol error - message type out of range
+Problem reading midbox download speed.
+Problem reading upload speed.
+Error sending message body
+Error sending message header
+Server Busy: Too many clients waiting in queue, please try again later
+Server Busy: Please wait 60 seconds for the current test to finish
+Server Connection:
+Server version is too old.
+Simple firewall
+Results: Upload: *
+)     Download: *
+Results: Speed test aborted by user.
+Results: Speed test failed.
+Running Download test ...
+Download: TEST_START
+Sending Metadata ...
+Metadata: TEST_START
+Running Upload test ...
+Failure while decoding test order
+Connect failure
+Read failure
+Error reading TEST_PREPARE message
+Timed out.
+Upload
+Upload: TEST_START
+Problem reading web100 variables.
+Added On:
+Completed On:
+Created By:
+No
+Go to BitTorrent Now to get torrents.
+Access violation
+Array bounds exceeded
+Breakpoint
+connection closed by peer
+Datatype misalignment
+File exceeds filesystem size limit
+Float denormal operand
+Float divide by zero
+Float inexact result
+Float invalid operation
+Float overflow
+Float stack check
+Float underflow
+Guard page
+hostname not found
+Illegal instruction
+Integer divide by zero
+Integer overflow
+Invalid disposition
+Invalid handle
+In page error
+Noncontinuable exception
+offline (timed out)
+Integer private instruction
+Single step
+Stack overflow
+Volume unmounted
+Manually Transfer
+Sync via iTunes
+Add Feed
+Add Url
+Add Device
+High
+Low
+Metadata
+Normal
+Active
+Torrents
+All Feeds
+Completed
+Conversions
+Devices
+Downloading
+Feeds
+Now
+Inactive
+Labels
+Media Player
+No Label
+Anti-virus Protection
+HD Media Player
+Streaming
+Upgrade to Plus
+Upgrade to Pro
+Seeding
+Added
+Antivirus
+||Avail.||Availability
+||Bw.Alloc||Bandwidth Allocation
+Completed Bytes
+Completed On
+Debug
+Disk Job
+Done
+Downloaded
+Down Limit
+Down Speed
+Elapsed
+Episode
+ETA
+Format
+Health
+Label
+Last Active
+Name
+Name ...\r\nA new line of text
+#
+Peers
+Rating
+Remaining
+Save Directory
+Seeds
+Seeds/Peers
+Selected Size
+Ratio
+Size
+Source URL
+Status
+Playback
+Tracker
+Tracker Status
+Uploaded
+Up Limit
+Up Speed
+Are you sure you want to remove the %d selected torrents%s?
+Are you sure you want to remove the selected torrent%s?
+Create
+ and all associated data
+Remove
+unsupported
+Feedback
+Filter Torrents
+Checked %:.1d%%
+Connecting to peers
+Deleting
+Downloading
+Downloading metadata
+Error: %s
+Finding peers
+Finished
+Flushing to disk (%d)
+[F] Downloading
+[F] Seeding
+[F] Initial-Seeding
+Moving...
+Need DHT (enable DHT to download)
+Paused
+Allocating...
+Quarantine
+Queued
+Queued Seed
+Resolving %:.1d%%
+RSS
+Previously downloaded
+Seeding
+Stopped
+Initial-Seeding
+Writing %:.1d%%
+Load
+Down
+Up
+Enter label
+Enter the new label for the selected torrents:
+New Label...
+Play
+Stream
+Ready in %s
+Expired
+Expires in %d days
+Expires tomorrow
+Upgrade
+Upgrading to Pro...
+Prefs
+Stream
+Set Primary
+Search
+*
+Send
+Download
+Stop
+Files
+Info
+Logger
+Peers
+Pieces
+Playback
+Ratings
+Related
+Speed
+Trackers
+Add Torrent
+Add Torrent from URL
+Virus Scan
+Create New Torrent
+Provide feedback!
+Toggle Torrent View
+Move Down Queue
+Move Up Queue
+Preferences
+Remove
+Add RSS Feed
+*
+Search
+Send
+Start Torrent
+Stop Torrent
+Tutorial
+Remote
+Toggle view
+Tutorial
+uT remote
+Virus Scan
+Answer a few questions to help us show you better advertisements
+Please feel free to read our <a href="http://www.bittorrent.com/legal/privacy">Privacy Policy</a>
+Age:
+Submit My Responses
+Gender:
+Help BitTorrent show you more relevant advertisements
+Interests:
+Relationship Status:
+We want to show your the most meaningful advertisements we can
+Close
+Thank you for taking our survey!
+At BitTorrent, we're always trying to improve our\nproducts.  Your feedback is incredibly helpful to\nus.  We really appreciate your valuable input.
+a day ago
+%d days ago
+an hour ago
+%d hours ago
+less than a minute ago
+a minute ago
+%d minutes ago
+a month ago
+%d months ago
+a week ago
+%d weeks ago
+a year ago
+%d years ago
+PAUSED %:.1d %%
+Failed to connect to %s Remote. This appears to have happened because you are running a peer blocking application such as PeerGuardian or PeerBlock. These programs are not currently compatible with %s Remote. You should either disable your peer blocking application, or disable %s Remote.
+Client
+Debug
+||Peer dl.||Peer Download Rate
+Downloaded
+Down Speed
+Socket State
+Flags
+Hasherr
+Inactive
+IP
+MaxDown
+MaxUp
+%
+Port
+Queued
+Quota
+Relevance
+Reqs
+Uploaded
+Up Speed
+Waited
+Availability
+Blocks
+Completed
+Mode
+# of Blocks
+#
+Priority
+Size
+Timeout
+fast
+medium
+slow
+Play downloaded file in external player
+Play downloaded file
+Play streamable file
+Try to stream file
+Congratulations! Your software is turning into %s Plus as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Plus forums.
+Downloading the plus package failed
+Plus install in progress. \nUpdates will be available shortly.
+Your plus player is expired. The free player will be used to play the media file
+%s Plus Player is installing. Please try again shortly.
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Plus to protect yourself from viruses hiding in torrents.
+Convert
+Open
+This device can't play this type of media file.\n\nUpgrade to %s Plus to convert this file so it can be played.
+Port Forward test complete. %s
+Results: Port not open.
+Results: Proxy detected. Results inconclusive.
+Too many activations\nA single purchased copy of %s Pro can only be installed on a set number of computers. This copy has been installed on too many different computers.\n\nPlease either purchase a new copy for this computer, or contact us at http://help.bittorrent.com if you think you're getting this message in error.
+Congratulations! Your software is turning into %s Pro as we speak, and all features will be ready to use in about a minute.\n\nTo learn about your new features, please refer to the %s Pro forums.
+Downloading the Pro package failed
+Pro install in progress.\nUpdates will be available shortly.
+Your Pro player is expired. The free player will be used to play the media file
+%s Pro Player is installing. Please try again shortly.
+Attention - this torrent contains files that may harm your computer.\n\nUpgrade to %s Pro to protect yourself from viruses hiding in torrents.
+This device can't play this type of media file.\n\nUpgrade to %s Pro to convert this file so it can be played.
+%u Comments
+Queued
+Copying: Queued
+Retry
+ALL
+RSS: Feed already exists "%s"
+Download Date
+Feed
+Full Name
+URL
+Really delete RSS Feed "%s"?
+Really delete %d RSS Feeds?
+(All)
+RSS Feed not found.
+Open URL in &Browser
+&Delete
+(match always)||(match only once)||12 hours||1 day||2 days||3 days||4 days||1 week||2 weeks||3 weeks||1 month||
+Date of last match: %s\r\nLast episodes matched: %s\r\n\r\nMatching releases:\r\n%s
+N/A
+New Filter
+None
+&Download
+&Add to Favorites
+Open URL in &Browser
+ALL
+Really delete RSS Filter "%s"?
+Really delete %d history entries?
+RSS: Smart filter has rejected "%S"
+Favorites||History||
+Too many
+RSS: Unable to load "%S": %s
+RSS: Unable to download "%s": %s
+     Scheduled (Downloading)
+Exception aborted.
+Failed to disconnect correctly. Error %d
+Failed to disconnect correctly due to a security context error.
+Failed to disconnect correctly because the server could not be sent to.
+Could not establish secure connection. Error %d
+Could not initialize security context. Error %d
+Out of memory
+Could not verify server identity
+Could not decrypt data. Error %d
+Could not send data. Error %d
+Could not obtain SSL chunk size.
+Could not encrypt data. Error %d
+Send to server failed.
+Could not validate server cert chain
+Transfer files converted for Android.
+Transfer files converted for BT Certified Device.
+Transfer files.
+Transfer files converted for PS3.
+Transfer files converted for XBox.
+audio
+Mon||Tue||Wed||Thu||Fri||Sat||Sun||
+Friday
+Monday
+Saturday
+Sunday
+Thursday
+Tuesday
+Wednesday
+documents
+The file '%s' could not be read.
+The file '%s' could not be written to.
+The file '%s' is in use by another process and can't be opened.
+The file '%s' was not found.
+Unknown error opening file '%s'
+The file '%s' has been recovered.
+You have to restart %s for the changes to take effect.
+Select your preferred player
+Executable (*.exe)||*.exe||All files (*.*)||*.*||
+Full speed
+Full speed -\nUses normal global\nbandwidth limits
+Limited
+Limited -\nUses scheduler-specified\nbandwidth limits
+Seeding only
+Seeding only -\nOnly uploads data\n(including incomplete)
+Turn off
+Turn off -\nStops all torrents\nthat are not forced
+video
+To get the most accurate readings, please choose the Server nearest you.
+Please Select a server
+More info is in the <a href="http://www.utorrent.com/faq">FAQ</a> and at <a href="http://portforward.com/">portforward.com</a>
+*
+PostMessage failed h:%d i:%d t:%d e:%d
+Results: Port is not open (you are still able to download).
+ Port mapping will speed downloads and enable seeding. More info in FAQ and at portforward.com
+Results: Port is open. Your network is properly configured.
+This test will verify your router settings and highlight any configuration issues.
+Run Tests
+This test will use <a href="http://www.utorrent.com/faq#mlabs">Measurement Lab</a> tools to check and set your bandwidth limits.
+If no location is near, you can test at <a href="http://dslreports.com/speedtest/">dslreports</a> and input your upload speed.
+Stop Tests
+%s Setup Guide
+%s Bandwidth Configuration
+%s will test your network and configure itself for best performance.
+Choose the closest test location ...
+Downloading Server List ...
+Please enter a valid port number from 0-65535.
+This is a likely service port. Please choose another.\n(You can change this setting in bt.no_connect_to_services_list)
+Copy the link below to share the torrent you just created.
+Send files to friends and family using torrents
+Cancel
+Get Link
+A torrent file has been created! Share this link!
+Creating Torrent..
+Send Files
+Send File
+Tried to redirect to invalid url
+Will redirect to URL: %S
+Automatic Shutdown will initiate in %d seconds.\r\nPress Cancel to abort.
+FAILED
+Hibernating computer... %s
+OK
+Quitting program
+Restarting computer... %s
+Shutting down computer... %s
+Stand-by computer... %s
+(Alternate speed test at <a href="http://dslreports.com/speedtest/">dslreports</a>)
+upload rate limit
+download rate limit
+TCP upload rate
+TCP download rate
+send rate to player
+cache reading
+file reading
+cache writing
+file writing
+transfer cap
+upload + download
+downloaded
+upload rate (payload)
+uploaded
+ack upload
+ack download
+header upload
+header download
+connect upload
+connect download
+close upload
+close download
+retransmission upload
+download rate (payload)
+retransmission download
+peak send delay
+average send delay
+min send delay
+peak receive delay
+average receive delay
+min receive delay
+target delay
+read
+write
+upload rate (local peers)
+hash chunks
+hash piece
+preallocate
+move files
+close
+fix partfile
+repair
+import
+shutdown
+move one file
+download rate (local peers)
+delayed torrent work
+delete torrent
+delete files
+arbitrary read
+copy file
+quarantine
+create torrent
+upload rate (incl. overhead)
+download rate (incl. overhead)
+TCP upload rate limit
+TCP download rate limit
+non-critical requests
+buffer size
+secs ahead of ghost
+secs ahead of eye
+seconds of underrun
+next hole
+encoded rate
+total pieces
+critical requests
+critical cancellations
+%s is still starting up
+Please tell us more about your experience.
+Please select stream quality.
+Click to Stream
+day
+days
+Your streaming trial ends in %d %s
+Streaming trial expired - Upgrade to Pro
+Buffering...
+\nYou can try playing it in a different media player\nafter it finishes downloading
+Unable to stream/play this file
+\nYou can try streaming again later or wait until it\nfinishes downloading
+Unable to stream this file right now
+Audio issues / No audio
+Bad
+Many stops / buffering
+Select stream quality...
+Good
+Other...
+Trying to stream...
+Converted File
+New
+Upgrade
+Upgrade to µTorrent
+Advanced
+UI Extras
+Anti-virus
+Bandwidth
+Connection
+Disk Cache
+Directories
+General
+UI Settings
+Label
+Transfer Cap
+Paired Devices
+Devices
+Run Program
+Scheduler
+Queueing
+Playback
+BitTorrent
+Remote
+Web UI
+Show Properties||Start/Stop||Open Folder||Show Download Bar||Play||
+Disabled||Enabled||Forced||
+1||2||5||7||10||14||15||20||21||28||30||31||
+MB||GB||
+(none)||Socks4||Socks5||HTTPS||HTTP||
+(Never)||
+5||10||25||50||100||
+Definition
+Directory
+Label
+Name
+Value
+Contains: "%s"
+Please enter a valid disk cache size 32-1800.
+The transfer cap must be greater than zero.
+Please enter a valid port number from 0-65535.
+Select a program to run:
+Select a program to run:
+The specified number is not a valid integer. Please enter a valid integer.
+Forget Paired Device
+Paired Devices
+Date Added
+Name
+Do you really want to reset your bandwidth usage history?\n\nThis operation cannot be undone.
+You can use the following parameters:\r\n\r\n%F - Name of downloaded file (for single file torrents)\r\n%D - Directory where files are saved\r\n%N - Title of torrent\r\n%P - Previous state of torrent\r\n%L - Label\r\n%T - Tracker\r\n%M - Status message string (same as status column)\r\n%I - hex encoded info-hash\r\n%S - State of torrent\r\n%K - kind of torrent (single|multi)\r\n\r\nWhere State is one of:\r\n\r\nError - 1\r\nChecked - 2\r\nPaused - 3\r\nSuper seeding - 4\r\nSeeding - 5\r\nDownloading - 6\r\nSuper seed [F] - 7\r\nSeeding [F] - 8\r\nDownloading [F] - 9\r\nQueued seed - 10\r\nFinished - 11\r\nQueued - 12\r\nStopped - 13\r\nQueued - 12\r\nPreallocating - 17\r\nDownloading Metadata - 18\r\nConnecting to Peers - 19\r\nMoving - 20\r\nFlushing - 21\r\nNeed DHT - 22\r\nFinding Peers - 23\r\nResolving - 24\r\nWriting - 25
+In which city or town were you born?
+A security question can be used later to transfer your %s Remote username to another computer. Would you like to create one now?
+Select a folder
+Select a folder where you want to store the active downloads:
+<a>Try our new Android app!</a>
+Current Settings (
+Test Result (
+Unlimited
+Report Ad
+Test queued...
+%dd %dh
+%dh %dm
+%dm %ds
+%ds
+%dw %dd
+%dy %dw
+Enter your email and unlock free content
+Click update to update now
+&Enable DHT
+&Enable Scheduler
+&Download Limit
+E&xit
+&Hide/Show µTorrent
+&Pause all torrents
+&Resume all torrents
+&Enable Scheduler
+Stats Dialog...
+&Upload Limit
+General||Advanced||
+Add Peer
+Enter the IP:port / [IPv6]:port of the peer to add:
+Executable files (*.exe)||*.exe||All files (*.*)||*.*||
+Select a file
+     Transferred
+Download Complete|%s has finished downloading.
+New Download from RSS|%s has started downloading.
+New version|A new version of %s is now available!
+!Error|There is not enough disk space to move %s to its final location
+!Torrent Error|File: %s\n%s
+Announces
+Downloaded
+Interval
+Min Interval
+Name
+Peers
+Scrapes
+Seeds
+Status
+Update In
+Can't accept %S with invalid character '%S'
+Can't accept %S with length %u greater than %d characters.
+Please enter a %S.
+Are you sure you want to remove the %d selected trackers?
+Are you sure you want to remove the selected tracker?
+You must enter a password to use %s Remote.
+Could not contact the %s Remote service to register.
+There is already a computer using the username "%S".
+That was not the correct security answer for the username "%S". Try again.
+Status: Accessible
+Status: Connecting...
+Status: Not accessible
+Status: Could not reclaim account
+Status: Registration failed
+Status: Registration failed
+Status: Reclaimed account
+Status: Reconnecting in %d seconds
+Status: Registered
+Status: Registered
+Status: Registering...
+Status: Registering security question
+Status: failed to load Secur32.dll or Security.dll
+Status: Reclaiming username
+Uninstalling %s ...
+Are you sure you'd like to uninstall %s?\n\nThis will remove the %s app only. None of your in-\nprogress and completed downloads will be removed
+Are you sure you want to uninstall µTorrent?
+Uninstallation failed.
+Unable to terminate currently running copies of the application.\r\nTerminating the uninstallation procedure.
+Remove settings
+Take uninstall survey
+kB/s
+%s failed to update. Please try again.
+µTorrent Failed to update. Please try again.
+µTorrent is up to date.
+Update History
+%s update failed. Unable to start the new process.
+failed to launch exe %s
+failed to acquire mutex %s
+attempted downgrade %x -> %x
+A new version of µTorrent is ready!\r\nWould you like to restart µTorrent now?
+failed to save the update. Please try again
+failed to save file
+Update Details
+View this bundle
+Updated on: *
+Total updates: *
+No update available for this torrent.
+Failed to verify the downloaded update. Please try updating again.
+failed to verify the update. Please try again.
+mismatching exe versions
+%s Upgrade
+Enjoy Seamless Updating
+Welcome to the µTorrent Upgrade Wizard
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+This wizard will guide you through the %s upgrade process.\r\nVersion: %s (Build %s)
+Updates are now build into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+Updates are now built into %s, so you'll always have the latest and greatest stable version of the software including security enhancements, bug fixes and new features.
+Though not recommended, you can turn automatic updates off at any time under Options>Preferences>Advanced
+This wizard will guide you through the upgrade of %s by BitTorrent, Inc. - the world's premiere, feature-rich torrent client.\r\n\r\nVersion: %s (Build %s)\r\n\r\nClick Next to continue.
+Welcome to the µTorrent® Upgrade Wizard
+Get the VLC player (Recommended)
+  (Recommended)
+Sorry, we could not start the player.  Please try again.
+Password did not match.
+Don't show this dialog again.
+Cancel
+OK
+Are you sure you want to remove the selected torrent?
+Help your fellow users - rate this before you delete it.
+Could not download WebUI file. Error: %s
+Could not download WebUI information. Error: %s
+WebUI file not found - attempting to download
+%s has requested permissions on %s:\n%s\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+%s has requested access to %s.\nDo you want to allow access?\nIf you did not initiate this request, press NO.
+Wrong pin entered
+Yes
